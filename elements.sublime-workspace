@@ -1,0 +1,519 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"copy",
+				"copysuccess"
+			],
+			[
+				"opening",
+				"openingHours"
+			],
+			[
+				"Hong",
+				"Hong-Kong"
+			],
+			[
+				"date_",
+				"date_create"
+			],
+			[
+				"mylocation",
+				"mylocation"
+			],
+			[
+				"str_rep",
+				"str_replace"
+			],
+			[
+				"location",
+				"locationtagfile"
+			],
+			[
+				"myloca",
+				"mylocationurl"
+			],
+			[
+				"mylo",
+				"mylocation"
+			],
+			[
+				"my",
+				"myfood"
+			],
+			[
+				"file",
+				"fileNameLocation"
+			],
+			[
+				"resto",
+				"restoNeighborhood"
+			],
+			[
+				"res",
+				"restaurant"
+			],
+			[
+				"fil",
+				"fileToCreateName"
+			],
+			[
+				"chat",
+				"chatStaffInfo"
+			],
+			[
+				"border-",
+				"border-color"
+			],
+			[
+				"backgrou",
+				"background-color"
+			],
+			[
+				"firebase",
+				"firebaseConfig"
+			],
+			[
+				"jso",
+				"jsonito"
+			],
+			[
+				"fixed",
+				"fixedwebsite"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = 'df21e130d211cfc94d9b0905775a7c0f' + '1e3d39e33b79698005270310898eea76'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+			"print \"hello\"",
+			"print hello",
+			"ls"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/MAC/Desktop/Hacene/Code/Bistro/admin-app/www/app/core/params.service.js",
+		"/Users/MAC/Desktop/Hacene/Code/crunchbase/startbase/startbase/spiders/startbase_spider.py",
+		"/Users/MAC/Desktop/Hacene/Code/crunchbase/startbase/startbase/settings.py",
+		"/Users/MAC/Desktop/Hacene/Code/crunchbase/startbase/linkedinlinks.html",
+		"/Users/MAC/Desktop/Hacene/Code/crunchbase/startbase/startbase/items.py",
+		"/Users/MAC/Desktop/Hacene/Code/Bistro/noframework/.gitignore",
+		"/Users/MAC/Desktop/Hacene/Code/Bistro/client-app/src/app/restaurants/all-restaurants.html",
+		"/Users/MAC/Desktop/Hacene/Code/Bistro/client-app/src/app/chats/chat-detail.html",
+		"/Users/MAC/Desktop/Hacene/Code/Bistro/client-app/src/app/chats/chat-user-badge.directive.js",
+		"/Users/MAC/Desktop/Hacene/Code/Bistro/admin-app/bower.json",
+		"/Users/MAC/Google Drive/BistroChat files/global-plan.txt",
+		"/Users/MAC/Google Drive/BistroChat files/Execution-Matrix.xml",
+		"/Users/MAC/Desktop/Hacene/Code/Bistro/client-app/src/app/chats/chat-detail.controller.js",
+		"/Users/MAC/Desktop/Hacene/Code/Bistro/client-app/src/app/chats/chat-staff-info.directive.js",
+		"/Users/MAC/Desktop/Hacene/Code/Bistro/client-app/src/app/user/user.service.js",
+		"/Users/MAC/Desktop/Hacene/Code/angular2code/HcnTest/src/app/app.module.ts",
+		"/Users/MAC/Desktop/Hacene/Code/angular2code/HcnTest/src/app/app.component.ts",
+		"/Users/MAC/Downloads/inspectionfillreport.controller.js",
+		"/Users/MAC/Desktop/Hacene/Code/angular2code/HcnTest/src/app/app.component.html",
+		"/Users/MAC/Desktop/Hacene/Code/angular2code/HcnTest/src/app/help/help.component.ts",
+		"/Users/MAC/Desktop/Hacene/Code/angular2code/HcnTest/src/app/help/help.component.html",
+		"/Users/MAC/Desktop/Hacene/Code/angular2code/HcnTest/src/app/first-table/first-table.component.html",
+		"/Users/MAC/Desktop/Hacene/Code/angular2/app/app.component.ts",
+		"/Users/MAC/Desktop/Hacene/Code/angular2/app/app.module.ts",
+		"/Users/MAC/Desktop/Hacene/Code/angular2/systemjs.config.js",
+		"/Users/MAC/Desktop/Hacene/Code/angular2/tsconfig.json",
+		"/Users/MAC/Desktop/Hacene/Code/angular2/package.json",
+		"/Users/MAC/Downloads/papertrail/logs/1995673/dt=2016-11-05/2016-11-05.tsv.gz",
+		"/Users/MAC/Downloads/papertrail/logs/1995673/dt=2016-11-05/2016-11-05.tsv",
+		"/Users/MAC/Desktop/Hacene/Code/Bistro/logstats/1logclean.py",
+		"/Users/MAC/Desktop/Hacene/Code/Bistro/client-app/hcntestscript.sh",
+		"/Users/MAC/Desktop/Hacene/Code/Bistro/client-app/fresh-install.sh",
+		"/Users/MAC/Desktop/Hacene/Code/Bistro/craw/facebookfan/facebookfan/test-facebookfan2.json",
+		"/Users/MAC/Desktop/Hacene/Code/Bistro/craw/sassy/mysassy/checked-exist-isrestaurant-canadd.json",
+		"/Users/MAC/Desktop/Hacene/Code/Bistro/craw/sassy/mysassy/test9-no-phone.json",
+		"/Users/MAC/Desktop/Hacene/Code/Bistro/craw/sassy/mysassy/rules-unicode-change.txt",
+		"/Users/MAC/Desktop/Hacene/Code/while42/while42-org.github.io/_data/chapters/037_hong_kong.yml",
+		"/Users/MAC/Desktop/Hacene/Code/Bistro/craw/sassy/mysassy/Activity",
+		"/Users/MAC/Desktop/Hacene/Code/Bistro/craw/sassy/mysassy/test9-cleaning-restaurant-nonerestaurant3.json",
+		"/Users/MAC/Desktop/Hacene/Code/Bistro/craw/sassy/mysassy/cleaning-json.py",
+		"/Users/MAC/Desktop/Hacene/Code/Bistro/craw/get-owners-emails/check-nochats-rest.py",
+		"/Users/MAC/Desktop/Hacene/Code/Bistro/polltest/restaurants/restaurants/urls.py",
+		"/Users/MAC/Desktop/Hacene/Code/Bistro/polltest/restaurants/directory/admin.py",
+		"/Users/MAC/Desktop/Hacene/Code/Bistro/polltest/restaurants/directory/models.py",
+		"/Users/MAC/Desktop/Hacene/Code/Bistro/polltest/restaurants/restaurants/settings.py",
+		"/Users/MAC/Desktop/Hacene/Code/Bistro/polltest/restaurants/directory/urls.py",
+		"/Users/MAC/Desktop/Hacene/Code/Bistro/polltest/restaurants/directory/views.py",
+		"/Users/MAC/Desktop/Hacene/Code/Bistro/craw/check-duplicates/fileresult.json",
+		"/Users/MAC/Desktop/Hacene/Code/Bistro/craw/get-owners-emails/master-emails-list-cleaned",
+		"/Users/MAC/Desktop/Hacene/Code/Bistro/craw/get-owners-emails/bulk_search-49360.csv",
+		"/Users/MAC/Desktop/Hacene/Code/Bistro/craw/get-owners-emails/response.json",
+		"/Users/MAC/Desktop/Hacene/Code/Bistro/craw/get-owners-emails/emailsfile.txt",
+		"/Users/MAC/Desktop/Hacene/Code/Bistro/craw/openrcrc/openrcrc/resto8.json",
+		"/Users/MAC/Desktop/Hacene/Code/Bistro/craw/openrcrc/openrcrc/openrcrc/spiders/openrcrc_spider.py",
+		"/Users/MAC/Desktop/Hacene/Code/Bistro/craw/openrcrc/openrcrc/openrcrc/settings.py",
+		"/Users/MAC/Desktop/Hacene/Code/Bistro/craw/openrcrc/openrcrc/openrcrc/items.py",
+		"/Users/MAC/Desktop/Hacene/Code/Bistro/craw/sassy/mysassy/test5.json",
+		"/Users/MAC/Desktop/Hacene/Code/Bistro/craw/sassy/mysassy/test6.json",
+		"/Users/MAC/Desktop/Hacene/Code/Bistro/craw/get-owners-emails/test7.json",
+		"/Users/MAC/Desktop/Hacene/Code/Bistro/craw/sassy/mysassy/test7.json",
+		"/Users/MAC/Desktop/Hacene/Code/Bistro/craw/sassy/mysassy/test4.json",
+		"/Users/MAC/Desktop/Hacene/Code/Bistro/craw/sassy/mysassy/mysassy/settings.py",
+		"/Users/MAC/Desktop/Hacene/Code/Bistro/craw/sassy/mysassy/test3.json",
+		"/Users/MAC/Desktop/Hacene/Code/Bistro/craw/openrcrc/openrcrc/resto7.json",
+		"/Users/MAC/Desktop/Hacene/Code/Bistro/craw/openrcrc/openrcrc/resto6.json",
+		"/Users/MAC/Google Drive/BistroChat files/ZJunk to be erased regularly/restos-ik.json",
+		"/Users/MAC/Downloads/restos-ik.json",
+		"/Users/MAC/anaconda/Examples/machine-learning-test-hcn/Orders.csv",
+		"/Users/MAC/Desktop/Hacene/Code/Bistro/admin-app/package.json",
+		"/Users/MAC/Desktop/Hacene/Code/Bistro/server-app/server-app/index.php",
+		"/Users/MAC/Desktop/Hacene/Code/Bistro/admin-app/platforms/android/ant.properties",
+		"/Users/MAC/Desktop/Hacene/Code/Bistro/client-app/platforms/android/ant.properties",
+		"/Users/MAC/Desktop/Hacene/Code/Bistro/client-app/platforms/android/release-signing.properties",
+		"/Users/MAC/Desktop/Hacene/Code/Bistro/client-app/platforms/android/custom_rules.xml",
+		"/Users/MAC/Desktop/Hacene/Code/Bistro/client-app/platforms/android/secure.properties",
+		"/Users/MAC/Desktop/Hacene/Code/Bistro/admin-app/config.xml",
+		"/Users/MAC/Desktop/Hacene/Code/Bistro/client-app/config.xml",
+		"/Users/MAC/Desktop/Hacene/Code/Bistro/server-app/server-app/manager.html",
+		"/Users/MAC/Desktop/Hacene/Code/Bistro/server-app/server-app/privacy-policy.html",
+		"/Users/MAC/Desktop/Hacene/Code/Bistro/server-app/server-app/client.html",
+		"/Users/MAC/Desktop/Hacene/Code/Bistro/server-app/server-app/example/index.html",
+		"/Users/MAC/Desktop/Hacene/Code/Bistro/marketing-website/index.html",
+		"/Users/MAC/Google Drive/BistroChat files/Finance & admin/Admin/privacy policy/Privacy-Principles.txt",
+		"/Users/MAC/Desktop/Hacene/Code/Bistro/marketingwebsite2/marketing-website/index.html",
+		"/Users/MAC/Desktop/Hacene/Code/Bistro/client4/client-app/platforms/ios/BistroChat/BistroChat-Info.plist",
+		"/Users/MAC/Desktop/Hacene/Code/Bistro/client4/client-app/www/app/app.module.js",
+		"/Users/MAC/Desktop/Hacene/Code/Bistro/client4/client-app/gulpfile.js",
+		"/Users/MAC/Desktop/Hacene/Code/Bistro/client4/client-app/config.xml",
+		"/Users/MAC/Desktop/Hacene/Code/Bistro/client4/client-app/platforms/ios/BistroChat/config.xml",
+		"/Users/MAC/Desktop/Hacene/Code/Bistro/client-app/platforms/ios/BistroChat/BistroChat-Info.plist",
+		"/Users/MAC/Desktop/Hacene/Code/Bistro/client-app/platforms/ios/BistroChat/config.xml",
+		"/Users/MAC/Desktop/Hacene/Code/Bistro/admin-app/install-plugins.sh",
+		"/Users/MAC/Desktop/Hacene/Code/Bistro/client-app/www/app/app.module.js",
+		"/Users/MAC/Desktop/Hacene/Code/Bistro/2client/config.xml",
+		"/Users/MAC/Desktop/Hacene/Code/Bistro/client-app/bower.json",
+		"/Users/MAC/Desktop/Hacene/Code/Bistro/client-app/www/app/restaurants/restaurant-info.html",
+		"/Users/MAC/Desktop/Hacene/Code/Bistro/client-app/www/app/chats/chat-add-contact.controller.js",
+		"/Users/MAC/Desktop/Hacene/Code/Bistro/client-app/www/app/chats/chat-add-contact-card.directive.js",
+		"/Users/MAC/Desktop/Hacene/Code/Bistro/client-app/www/app/contacts/add-contact.controller.js",
+		"/Users/MAC/Desktop/Hacene/Code/Bistro/marketingwebsite2/marketing-website/Manager.html",
+		"/Users/MAC/Desktop/Hacene/Code/Bistro/admin-app/www/app/app.module.js",
+		"/Users/MAC/Desktop/Hacene/Code/Bistro/client-app/install-plugins.sh",
+		"/Users/MAC/Desktop/Hacene/Code/Bistro/marketingwebsite2/marketing-website/css/ico.css"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			"/Users/MAC/Desktop/Hacene/Code/Bistro/client-app",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"https://www.facebook.com/([a-zA-Z0-9\\.\\-\\%]*)/\"",
+			"https://www.facebook.com/([a-zA-Z0-9\\.\\-]*)/\"",
+			"https://www.facebook.com/([a-z]*[A-Z]*[0-9]*)/\"",
+			"<div class=\"pure-u-1 pure-u-md-1-2 pure-u-lg-1-2 thumbnail-review\"><div class=\"thumbnail-img\">",
+			"</div>",
+			"\"",
+			"\\$restoNeighborhood",
+			"\\$restoNeighbourhood",
+			"$restoNeighbourhood",
+			"menu",
+			"\\$settings",
+			"$settings",
+			"\"",
+			"\"\\]},",
+			"{.*: \\[\"",
+			"{.*: \\[\\]\\},",
+			"36028808",
+			"newfile",
+			"($",
+			"$key",
+			"neighbor",
+			"\";\n",
+			"hongkong",
+			"ownerid",
+			">\n",
+			"hacene",
+			"\\e",
+			"\\E",
+			"(32m|90m|33m|39m|36m)",
+			"^.*place_id.*\\n",
+			"09/07",
+			"({.*})\\n",
+			"({.*})\\n({.*})\\n",
+			"[^a-z0-9\\n\\r\\t\\{\\}\\\"\\:\\]\\[ ,;\\/\\-&\\.\\'\\(\\)\\+\\!\\_\\?\\=\\#\\@]",
+			"é",
+			"[^a-z0-9\\n\\r\\t\\{\\}\\\"\\:\\]\\[ ,;\\/\\-&\\.\\'\\(\\)\\+\\!\\_\\?\\=\\#\\@]",
+			"[^a-z0-9\\n\\r\\t\\{\\}\\\"\\:\\]\\[ ,;\\/\\-&\\.\\'\\(\\)\\+\\!\\_\\?\\=\\#]",
+			"[^a-z0-9\\n\\r\\t\\{\\}\\\"\\:\\]\\[ ,;\\/\\-&\\.\\'\\(\\)\\+\\!\\_\\?\\=]",
+			"[^a-z0-9\\n\\r\\t\\{\\}\\\"\\:\\]\\[ ,;\\/\\-&\\.\\'\\(\\)\\+\\!\\_]",
+			"[^a-z0-9\\n\\r\\t\\{\\}\\\"\\:\\]\\[ ,;\\/\\-&\\.\\'\\(\\)\\+\\!]",
+			"[^a-z0-9\\n\\r\\t\\{\\}\\\"\\:\\]\\[ ,;\\/\\-&\\.\\'\\(\\)\\+]",
+			"^\\n",
+			"[0-9]{4}[0-9]{4}",
+			"[^\\+852] [0-9]{4}[0-9]{4}",
+			"[^\\+852] [0-9]{4} [0-9]{4}",
+			"\\+852 [0-9]{4}[^ ]",
+			"\\+852[0-9]{1}",
+			"\\+852[^ ][0-9]{4}",
+			"+852 \\[0-9\\]{4}",
+			"+852 [0-9]{4}",
+			"+852 [0-9]{8}",
+			"+852 ",
+			"+852[^ ]",
+			"([0-9]{4}\\s[0-9]{4})[^\"]",
+			"([0-9]{4}\\s[0-9]{4}) \"",
+			"([0-9]{4})\\s([0-9]{4}) \"",
+			"\"([0-9]{4})([0-9]{4})",
+			"([0-9]{4}\\s[0-9]{4})]",
+			"\" ([0-9]{4}\\s[0-9]{4})\"",
+			"\" [0-9]{4}\\s[0-9]{4}\"",
+			"\" [0-9]{4}",
+			"\"852",
+			"\\(852\\)",
+			"^\\n",
+			"{\"Phone\": \\[\\],.*},",
+			"\\[\"\"\\]",
+			"{\"Phone\": \\[\"\"\\].*},",
+			"{\"Phone\": [\"\"]",
+			"\\u00ed",
+			"\\u00f3",
+			"\\u2018",
+			"\\u00c9",
+			"\\u00ea",
+			"\\u00b2",
+			"\\u200b",
+			"\\u2028",
+			"\\u00ca",
+			"\\u00e7",
+			"\\u00e8",
+			"\\u200e",
+			"\\u00a0",
+			"\\u00A0",
+			"\\u2013",
+			"\\u00f4",
+			"\\u00e9",
+			"\\u2019",
+			"\"([0-9]{4})-([0-9]{4})",
+			"\"([0-9]{4}\\s[0-9]{4})",
+			"\"([1-9]{4}\\s[1-9]{4})",
+			"\"[1-9]{4}\\s[1-9]{4}",
+			"openrcrc",
+			"french",
+			"kyoto",
+			"french",
+			"queena",
+			"europe",
+			"U.S",
+			"</h2>",
+			"<h2>",
+			"team",
+			"teams",
+			"slack",
+			"logo.png",
+			"h3",
+			"h2",
+			"h1",
+			"bistrochat"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+			"\\n$&",
+			"$&\\n",
+			"\\n$&",
+			"$&\\n",
+			"\\n",
+			"</div> \\n",
+			"\\\\\"",
+			"\\\"",
+			"\"> linkedin link </a></li>",
+			"<li><a href=\"",
+			"{\"Linked\": []},",
+			"file",
+			"phuket",
+			"\n",
+			" \n",
+			"$1",
+			"$2",
+			"e",
+			"",
+			"$1\"",
+			"\"+852 $1 $2",
+			"$1\"]",
+			"\"+852 $1\"",
+			"\"+852 $1",
+			"\"+852",
+			"852",
+			"",
+			"\\[\\]",
+			"i",
+			"o",
+			"'",
+			"e",
+			"2",
+			"",
+			" ",
+			"e",
+			"c",
+			"e",
+			"",
+			" ",
+			"-",
+			"o",
+			"é",
+			"'",
+			"\"+852 $1 $2",
+			"\"+852 $1",
+			"\"+852$1",
+			"\"+852(1)",
+			"\"+852[1-9]{4}\\s[1-9]{4}",
+			"queen'",
+			"</h3>",
+			"<h3>",
+			"user",
+			"users",
+			"BistroChat"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 100.0
+	},
+	"pinned_build_system": "",
+	"project": "elements.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"~/Desktop/Hacene/Code/Bistro/client-app/install-plugins.sh"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 137.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
